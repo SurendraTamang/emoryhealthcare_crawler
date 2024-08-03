@@ -1,0 +1,2210 @@
+[
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2o53yXumQxwceTPo4",
+        "idRaw": 133821,
+        "position": 1,
+        "title": "Patient Access Priority Engagement Specialist",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30078",
+            "country": "USA",
+            "city": "Snellville",
+            "state": "GA"
+        },
+        "company": "ESA DM Snlvl PC President Cir",
+        "id": "3eT9utejzz4zbWGtU",
+        "idRaw": 133736,
+        "position": 2,
+        "title": "Patient Service Coordinator",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30080",
+            "country": "USA",
+            "city": "Smyrna",
+            "state": "GA"
+        },
+        "company": "EHC - Smyrna",
+        "id": "5yJK3doadtj8Uyhb",
+        "idRaw": 133731,
+        "position": 3,
+        "title": "Patient Services Coordinator",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "368FbCmTJgygMJe7g",
+        "idRaw": 133687,
+        "position": 4,
+        "title": "Financial Analyst III Hospital System Finance",
+        "category": "Business Operations",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "3m7NGZwAueXAQ7iMU",
+        "idRaw": 133647,
+        "position": 5,
+        "title": "Quality and Patient Safety Director",
+        "category": "Business Operations",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "2oME85bonxCuSUrCj",
+        "idRaw": 133641,
+        "position": 6,
+        "title": "Emory Johns Creek Hospital Hiring Event",
+        "category": "Revenue Cycle & Managed Care",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "2YSp6NZdwmSAkWWR3",
+        "idRaw": 133640,
+        "position": 7,
+        "title": "Emory Johns Creek Hospital - Environmental Services\u00a0Hiring Event",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2SUscESTr1BhTiUhw",
+        "idRaw": 133594,
+        "position": 8,
+        "title": "Supply Chain Technician",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "35nwVYtLf18j53fe",
+        "idRaw": 133579,
+        "position": 9,
+        "title": "PCC - Complex Scheduler",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "rXtLvGuVuS2L6XdN",
+        "idRaw": 133564,
+        "position": 10,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "yK7TdWfcW91tztHk",
+        "idRaw": 133563,
+        "position": 11,
+        "title": "Sterile Processing Trainee",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Location Varies",
+        "id": "durc4XxChm5LrUjW",
+        "idRaw": 133438,
+        "position": 12,
+        "title": "Clinical Engineer Radiation Oncology",
+        "category": "Imaging & Radiology",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "dmBJgviCWD7tBxSN",
+        "idRaw": 133370,
+        "position": 13,
+        "title": "Program Manager, Clinical Onboarding & Development",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30033",
+            "country": "USA",
+            "city": "Decatur",
+            "state": "GA"
+        },
+        "company": "Emory Decatur Hospital",
+        "id": "3eJ5WUMnPxsCv6guC",
+        "idRaw": 133369,
+        "position": 14,
+        "title": "Laundry Worker I",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2eZRMiuzhPet6srUX",
+        "idRaw": 133282,
+        "position": 15,
+        "title": "Senior Net Patient Service Revenue Analyst",
+        "category": "Business Operations",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30329",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Executive Park 57",
+        "id": "2XcHPW5fwbiwLESAv",
+        "idRaw": 133239,
+        "position": 16,
+        "title": "Clinical Research Coordinator I (ETS) | Temporary",
+        "category": "Clinical Research",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2eEG6Aa6rmQK9A3Ru",
+        "idRaw": 133238,
+        "position": 17,
+        "title": "IT Program & Portfolio Manager",
+        "category": "Information Technology",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30084",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Ortho & Spine Hospital",
+        "id": "veinc55pYQ16yxh6",
+        "idRaw": 133185,
+        "position": 18,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30084",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Ortho & Spine Hospital",
+        "id": "2m6WUmKiK7sesVPMm",
+        "idRaw": 133184,
+        "position": 19,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "2GM5QBp7SA6ET9VwM",
+        "idRaw": 133158,
+        "position": 20,
+        "title": "Admission Communication Manager (ETS - Assigned to School of Law)",
+        "category": "Marketing and Communications",
+        "postedDate": "2024-07-23"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2VLkZwmcSj9EpsZf9",
+        "idRaw": 133140,
+        "position": 1,
+        "title": "Revenue Cycle Operations Manager, Reproductive Medicine",
+        "category": "Revenue Cycle & Managed Care",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2yPNhyofmHPgW2f6C",
+        "idRaw": 133136,
+        "position": 2,
+        "title": "Public Safety Dispatcher",
+        "category": "Public Safety and Security",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "314HZoT6kWJxRPas6",
+        "idRaw": 133125,
+        "position": 3,
+        "title": "Senior Hospital Accountant",
+        "category": "Business Operations",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "2T6Ze8nfr1wtxDd28",
+        "idRaw": 133112,
+        "position": 4,
+        "title": "Senior Communications Manager",
+        "category": "Business Operations",
+        "postedDate": "2024-07-26"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "sMEEZ1Wf8ccENP1N",
+        "idRaw": 133080,
+        "position": 5,
+        "title": "Director of Operations, Interpreter & Translation Services",
+        "category": "Business Operations",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "2zMKegkPE7MVBixeX",
+        "idRaw": 133079,
+        "position": 6,
+        "title": "Maintenance Mechanic Specialist\u00a0 II",
+        "category": "Faculty and Faculty Equivalent",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "2ifi8DTUQpNHeFPaE",
+        "idRaw": 133078,
+        "position": 7,
+        "title": "Painter",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2JCr9Pqs6EJ3Sk9MB",
+        "idRaw": 133066,
+        "position": 8,
+        "title": "Marketing Coordinator",
+        "category": "Business Operations",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "2ArPGAgWLyWEkDG1a",
+        "idRaw": 133057,
+        "position": 9,
+        "title": "Cook",
+        "category": "Food Services & Dietetics",
+        "postedDate": "2024-07-23"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "32m4J2VpD6xKZzo8Q",
+        "idRaw": 133027,
+        "position": 10,
+        "title": "Research Assistant (ETS) | Temporary",
+        "category": "Clinical Research",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30329",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "MSK Research Center",
+        "id": "2fVeqPw3UH2pX7Xpe",
+        "idRaw": 133016,
+        "position": 11,
+        "title": "Patient Services Coordinator II FD (ETS) | Temporary",
+        "category": "Customer Service",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2YYpBXmTQVG6FcBhQ",
+        "idRaw": 133014,
+        "position": 12,
+        "title": "Senior Solutions Architect",
+        "category": "Information Technology",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "ewZiSCLyYVG1Bq6K",
+        "idRaw": 133005,
+        "position": 13,
+        "title": "Administrative Assistant (ETS) | Temporary",
+        "category": "Administrative and Business Support",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30329",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "MSK Research Center",
+        "id": "2Qrt7nkAvCvbG62Zo",
+        "idRaw": 132999,
+        "position": 14,
+        "title": "Financial Analyst II , Orthopedics Administration",
+        "category": "Business Operations",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "A3n9GVrX1Uaqs7Ws",
+        "idRaw": 132996,
+        "position": 15,
+        "title": "Advance Practice Provider Talent Acquisition Manager",
+        "category": "Business Operations",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2WbziDXGwVvaxwh56",
+        "idRaw": 132993,
+        "position": 16,
+        "title": "Executive Talent Acquisition Partner",
+        "category": "Business Operations",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2aY5PFb9cX6Sn4m6G",
+        "idRaw": 132992,
+        "position": 17,
+        "title": "College Talent Acquisition Partner",
+        "category": "Business Operations",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "367gVUuV6VKtksXJP",
+        "idRaw": 132991,
+        "position": 18,
+        "title": "Advance Practice Provider Talent Acquisition Partner",
+        "category": "Business Operations",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "GaZuKcLDrj3PHyMs",
+        "idRaw": 132969,
+        "position": 19,
+        "title": "Training Specialist, Patient Access Support",
+        "category": "Business Operations",
+        "postedDate": "2024-07-19"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "37atG1QPVEpcCwX5J",
+        "idRaw": 132954,
+        "position": 20,
+        "title": "Outdoor Recreation Assistant (ETS)| Temporary",
+        "category": "Athletics",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "36UTMqANWHxxSh6Aa",
+        "idRaw": 132949,
+        "position": 1,
+        "title": "Intramural & Club Sports Assistant (ETS) | Temporary",
+        "category": "Athletics",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "daKvinxsxfNPZYTz",
+        "idRaw": 132946,
+        "position": 2,
+        "title": "Patient Transport Supervisor",
+        "category": "Business Operations",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2gh51rEgxnU7y6ehU",
+        "idRaw": 132923,
+        "position": 3,
+        "title": "EPIC Analyst III, Healthy Planet",
+        "category": "Information Technology",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "hqBTb6vqW5XQLdwX",
+        "idRaw": 132841,
+        "position": 4,
+        "title": "Surgical Tech IN-PERSON Interview Day",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "8bZKX6f4EbSRncdG",
+        "idRaw": 132806,
+        "position": 5,
+        "title": "Perioperative Services Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-15"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30307",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "North Decatur Bldg",
+        "id": "2Q1aTVSR2im36D4u6",
+        "idRaw": 132762,
+        "position": 6,
+        "title": "Transplant Financial Counselor, Liver Center",
+        "category": "Revenue Cycle & Managed Care",
+        "postedDate": "2024-07-17"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "vzLkH54cV74hoZPj",
+        "idRaw": 132736,
+        "position": 7,
+        "title": "SVP, Laboratory Services",
+        "category": "Executive Leadership",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2tUowE3tyGVKsw1D6",
+        "idRaw": 132709,
+        "position": 8,
+        "title": "Contract/Provider Service Manager Emory Healthcare Network",
+        "category": "Revenue Cycle & Managed Care",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "not set",
+            "country": "USA",
+            "city": "not set",
+            "state": "not set"
+        },
+        "company": "156005: R. Randall Rollins Building Floor: 05",
+        "id": "2tatbStbiZs1gnwmM",
+        "idRaw": 132653,
+        "position": 9,
+        "title": "Public Health Program Associate (ETS) | Temporary",
+        "category": "Project and Program Management",
+        "postedDate": "2024-07-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "SMkzpXuuuCFP12mT",
+        "idRaw": 132645,
+        "position": 10,
+        "title": "Clinical Dietitian",
+        "category": "Food Services & Dietetics",
+        "postedDate": "2024-07-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "28DxPVpEWEzdNFfR5",
+        "idRaw": 132614,
+        "position": 11,
+        "title": "VP, Procedural Areas",
+        "category": "Executive Leadership",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "2ppaKkNKZUG1WbDNx",
+        "idRaw": 132613,
+        "position": 12,
+        "title": "Clinical Research Coordinator I (ETS) | Temporary",
+        "category": "Clinical Research",
+        "postedDate": "2024-07-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "3g3f8bayLkumE5c7W",
+        "idRaw": 132504,
+        "position": 13,
+        "title": "Maintenance Mechanic III",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-12"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Clinic Bldg A",
+        "id": "b8hHk23rhccBSREZ",
+        "idRaw": 132430,
+        "position": 14,
+        "title": "Finance Fellowship",
+        "category": "Business Operations",
+        "postedDate": "2024-07-08"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "WHSCAB",
+        "id": "FjZ6uKzKex87JNug",
+        "idRaw": 132428,
+        "position": 15,
+        "title": "Administrative Fellow",
+        "category": "Business Operations",
+        "postedDate": "2024-07-08"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "HyPyHAKqbzxVW37i",
+        "idRaw": 132359,
+        "position": 16,
+        "title": "Automation Manager, Digital Pharmacy",
+        "category": "Information Technology",
+        "postedDate": "2024-07-12"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "3CfFCWuPJuwasD7g",
+        "idRaw": 132348,
+        "position": 17,
+        "title": "PCC - Complex Scheduler",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30307",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Carter Center",
+        "id": "nbxQBvkoHThAG7cr",
+        "idRaw": 132303,
+        "position": 18,
+        "title": "Program Assistant (NGO) (ETS) | Full-Time, Temporary | The Carter Center",
+        "category": "Project and Program Management",
+        "postedDate": "2024-07-03"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30307",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "North Decatur Bldg",
+        "id": "2eKqjkC463g5bpqXN",
+        "idRaw": 132300,
+        "position": 19,
+        "title": "Wkplce Violence Prevention Mgr",
+        "category": "Public Safety and Security",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "3ja7DDP62mPsUjUNd",
+        "idRaw": 132285,
+        "position": 20,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30303",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Grady Hospital",
+        "id": "27No6msajuvtoNg11",
+        "idRaw": 132265,
+        "position": 1,
+        "title": "Facilities Planning Coordinator l Full Time, Temporary",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "xhBEcNrWWtbYkprB",
+        "idRaw": 132151,
+        "position": 2,
+        "title": "Program Coordinator Senior (ETS) | Temporary",
+        "category": "Project and Program Management",
+        "postedDate": "2024-06-28"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "2SSKzeC9a6iAgEqzZ",
+        "idRaw": 132150,
+        "position": 3,
+        "title": "Research Assistant (ETS) | Temporary",
+        "category": "Laboratory Research",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Clinic Bldg A",
+        "id": "3a7QEKUVSJ1tpaup7",
+        "idRaw": 132145,
+        "position": 4,
+        "title": "Project Manager, Ambulatory Facility Planning, Design and Construction",
+        "category": "Business Operations",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "zPGTi7cPGjmQMu8N",
+        "idRaw": 132066,
+        "position": 5,
+        "title": "Perioperative Services Materials Coordinator",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "d3VxbWn5C7cBxeJh",
+        "idRaw": 132053,
+        "position": 6,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "b3mfBSLAd4yV5tCT",
+        "idRaw": 132048,
+        "position": 7,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-27"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "3aFQcpipumQzfsKup",
+        "idRaw": 132045,
+        "position": 8,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-27"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2ojRrQQTV1VaTkbWc",
+        "idRaw": 132041,
+        "position": 9,
+        "title": "Senior Compensation Analyst",
+        "category": "Business Operations",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "XQf2PxJTvw4Y5iyo",
+        "idRaw": 132040,
+        "position": 10,
+        "title": "Compensation Analyst",
+        "category": "Business Operations",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "pMBwsBdQEAGtotvd",
+        "idRaw": 131966,
+        "position": 11,
+        "title": "Admissions Assistant (ETS) | Temporary",
+        "category": "Admissions and Student Life",
+        "postedDate": "2024-07-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2VG3P7muKpTPYnURT",
+        "idRaw": 131899,
+        "position": 12,
+        "title": "Supervisor Business Operations - Vascular Surgery",
+        "category": "Business Operations",
+        "postedDate": "2024-07-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "2yQ8sGKrpaqmM9gzx",
+        "idRaw": 131895,
+        "position": 13,
+        "title": "Administrative Assistant",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "UTBAAXboXb3k7ejg",
+        "idRaw": 131880,
+        "position": 14,
+        "title": "Student Research Assistant(ETS)| Temporary",
+        "category": "Laboratory Research",
+        "postedDate": "2024-06-25"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "kkz94zHBEX3RJD8v",
+        "idRaw": 131877,
+        "position": 15,
+        "title": "Student Research Assistant (ETS)| Temporary",
+        "category": "Laboratory Research",
+        "postedDate": "2024-06-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Clinic Bldg A",
+        "id": "fUW2GdpK91yoXeXQ",
+        "idRaw": 131870,
+        "position": 16,
+        "title": "Project Coordinator, Ambulatory Facility Planning/ Design/ Construction",
+        "category": "Business Operations",
+        "postedDate": "2024-07-17"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2Bu1xX83F2S2Y8oWY",
+        "idRaw": 131841,
+        "position": 17,
+        "title": "Clinical Informatics Specialist II",
+        "category": "Information Technology",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "nD35Zeo4FtgRouL3",
+        "idRaw": 131680,
+        "position": 18,
+        "title": "Accounts Payable Specialist  - EHC (ETS) | Temporary",
+        "category": "Accounting and Finance",
+        "postedDate": "2024-06-24"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "3i9SpCmTvhYYU5848",
+        "idRaw": 131657,
+        "position": 19,
+        "title": "Materials Coordinator, Perioperative Services (ETS) | Temporary",
+        "category": "Administrative and Business Support",
+        "postedDate": "2024-07-08"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "yNAjgFvhRu3mK9B5",
+        "idRaw": 131642,
+        "position": 20,
+        "title": "Sterile Proc Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-21"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "2wHjc4XNY3V12UASz",
+        "idRaw": 131640,
+        "position": 1,
+        "title": "Sterile Proc Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-21"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "WGPgEMj2N34eJGhQ",
+        "idRaw": 131637,
+        "position": 2,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-21"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "31904",
+            "country": "USA",
+            "city": "Columbus",
+            "state": "GA"
+        },
+        "company": "TEC CT Surgery - Columbus",
+        "id": "nCuhMgUA89zfoeQK",
+        "idRaw": 131600,
+        "position": 3,
+        "title": "Director Quality & Patient Safety",
+        "category": "Business Operations",
+        "postedDate": "2024-06-20"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "oZcJfuZVKcb431sh",
+        "idRaw": 131594,
+        "position": 4,
+        "title": "Academic Records Specialist- Temporary",
+        "category": "Academic and Program Support",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "26aetZY8xHhz7DJJY",
+        "idRaw": 131337,
+        "position": 5,
+        "title": "Registered Nurse / Operating Room",
+        "category": "Nursing",
+        "postedDate": "2024-06-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "XqikLgtFzc4qkT4R",
+        "idRaw": 131323,
+        "position": 6,
+        "title": "Corporate Director, Patient Safety",
+        "category": "Executive Leadership",
+        "postedDate": "2024-06-21"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "2BKFdNyA3wggu9RSQ",
+        "idRaw": 131267,
+        "position": 7,
+        "title": "Laboratory Assistant",
+        "category": "Laboratory Research",
+        "postedDate": "2024-06-25"
+    },
+    {
+        "positionType": "Temporary Part-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "VZSqg5Mh4UrZPjWt",
+        "idRaw": 131222,
+        "position": 8,
+        "title": "Research Assistant",
+        "category": "Laboratory Research",
+        "postedDate": "2024-06-28"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "35bTJ6GdYmrWrEtax",
+        "idRaw": 131050,
+        "position": 9,
+        "title": "Cardiovascular Specialist",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-12"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2oovZ4s7AGcSj7GKW",
+        "idRaw": 131031,
+        "position": 10,
+        "title": "Maintenance Mechanic II",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-02"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "it71iegNog2p7MQi",
+        "idRaw": 130990,
+        "position": 11,
+        "title": "Cook",
+        "category": "Food Services & Dietetics",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Campus-Clifton Corridor",
+        "id": "395zDz3c8NFmCu25Q",
+        "idRaw": 130674,
+        "position": 12,
+        "title": "Administrative Assistant (ETS) | Temporary",
+        "category": "Administrative and Business Support",
+        "postedDate": "2024-06-10"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "29cDVBNKpB7SEn1wY",
+        "idRaw": 130514,
+        "position": 13,
+        "title": "Staffing Assistant",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2LvoXipmjBycfU9Rz",
+        "idRaw": 130315,
+        "position": 14,
+        "title": "Cloud Security Specialist",
+        "category": "Information Technology",
+        "postedDate": "2024-06-03"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "erUQx6SJaR1oei2U",
+        "idRaw": 130048,
+        "position": 15,
+        "title": "Financial Analyst, Winship",
+        "category": "Business Operations",
+        "postedDate": "2024-07-22"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Clinic Bldg B",
+        "id": "31NsXYVc9nKVKduZ7",
+        "idRaw": 129989,
+        "position": 16,
+        "title": "Coordinator , Winship Boutique, Certified Mastectomy Fitter",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-29"
+    },
+    {
+        "positionType": "PRN / Registry",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "Qm3UhkVmczQAjr1H",
+        "idRaw": 129988,
+        "position": 17,
+        "title": "Medical Interpreter English/Spanish PRN",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-07-12"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "3hB4soJH9EhUqN4Zi",
+        "idRaw": 129987,
+        "position": 18,
+        "title": "Executive Administrative Assistant",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2eNYb3nb47gw6Lw3x",
+        "idRaw": 129443,
+        "position": 19,
+        "title": "Senior Software Engineer",
+        "category": "Information Technology",
+        "postedDate": "2024-07-29"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "278Jhu2Rtt7GGkUJ6",
+        "idRaw": 129332,
+        "position": 20,
+        "title": "Cardiac Monitor Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-07"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "bkGczbhLkJehLWqH",
+        "idRaw": 129218,
+        "position": 1,
+        "title": "Coordinator, Anesthesia Services",
+        "category": "Advanced Practice Providers",
+        "postedDate": "2024-05-03"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2X71uo2up1R7KNKrU",
+        "idRaw": 129210,
+        "position": 2,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "yPfgRTxuZ1KgUfzL",
+        "idRaw": 129193,
+        "position": 3,
+        "title": "Sterile Processing Technician Lead",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-01"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "3gS5o6H6DBnktvUz6",
+        "idRaw": 129024,
+        "position": 4,
+        "title": "Executive Chef",
+        "category": "Food Services & Dietetics",
+        "postedDate": "2024-07-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "KJVT4DhqN4N9fy5x",
+        "idRaw": 128987,
+        "position": 5,
+        "title": "Patient Access Engagement Specialist II - Referral Management",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "25QWtSNVginHHgo2s",
+        "idRaw": 128985,
+        "position": 6,
+        "title": "Patient Access / Customer Service",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-06-18"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2wGGmB2uM3iGGcDa9",
+        "idRaw": 128396,
+        "position": 7,
+        "title": "Health & Wellness Access Liaison",
+        "category": "Clerical & Administrative",
+        "postedDate": "2024-08-01"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "caBYvmm8bBNN3GwP",
+        "idRaw": 128259,
+        "position": 8,
+        "title": "Environmental Services Supervisor",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "2A4M75ftBmXD8xWLU",
+        "idRaw": 128068,
+        "position": 9,
+        "title": "HR Business Partner",
+        "category": "Business Operations",
+        "postedDate": "2024-07-25"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "Knf1Ns4gzguyXwW8",
+        "idRaw": 127880,
+        "position": 10,
+        "title": "Cardiovascular Specialist",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-04-09"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30097",
+            "country": "USA",
+            "city": "Johns Creek",
+            "state": "GA"
+        },
+        "company": "Emory Johns Creek Hospital",
+        "id": "HpvKLNVna4uv3vZM",
+        "idRaw": 127411,
+        "position": 11,
+        "title": "Food and Nutrition Associate",
+        "category": "Food Services & Dietetics",
+        "postedDate": "2024-07-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "2azCY5VnwDyy7qmqY",
+        "idRaw": 127186,
+        "position": 12,
+        "title": "Maintenance Mechanic Specialist I",
+        "category": "Facility Support and Building Maintenance",
+        "postedDate": "2024-04-29"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "2HKa9z7sbhgJXLDiA",
+        "idRaw": 127134,
+        "position": 13,
+        "title": "Pharmacy Technician III (ETS) | Temporary",
+        "category": "Nursing and Clinical Services",
+        "postedDate": "2024-03-28"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "3hKNG2DrGxzy8bp1",
+        "idRaw": 127108,
+        "position": 14,
+        "title": "Sr. Administrator, Heart & Vascular\u00a0",
+        "category": "Executive Leadership",
+        "postedDate": "2024-06-05"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30033",
+            "country": "USA",
+            "city": "Decatur",
+            "state": "GA"
+        },
+        "company": "Emory Decatur Hospital",
+        "id": "2p1jYQ7M1tLa1Axjm",
+        "idRaw": 126835,
+        "position": 15,
+        "title": "ESA Physician",
+        "category": "Faculty and Faculty Equivalent",
+        "postedDate": "2024-03-21"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Clinic Bldg C",
+        "id": "7QKHAHPBTMZiNB4y",
+        "idRaw": 126705,
+        "position": 16,
+        "title": "Administrator, Emory Clinics Operations, Oncology",
+        "category": "Business Operations",
+        "postedDate": "2024-07-23"
+    },
+    {
+        "positionType": "PRN / Registry",
+        "location": {
+            "zip": "30084",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Ortho & Spine Hospital",
+        "id": "bArN3h9Yw47Kn4Hy",
+        "idRaw": 126342,
+        "position": 17,
+        "title": "Surgical Tech / First Assist / OR / PRN",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-16"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "LpVHGpFPUXp4CWPg",
+        "idRaw": 126316,
+        "position": 18,
+        "title": "PeopleSoft and Payroll Systems Analyst",
+        "category": "Business Operations",
+        "postedDate": "2024-07-24"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30307",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Carter Center",
+        "id": "2A5PcUW1ZJrZC9KK9",
+        "idRaw": 126241,
+        "position": 19,
+        "title": "Program Assistant (NGO) (ETS) | Full-time, Temporary | The Carter Center",
+        "category": "Project and Program Management",
+        "postedDate": "2024-06-08"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2u4cLeQec2WuZDXgk",
+        "idRaw": 126105,
+        "position": 20,
+        "title": "Surgical Tech Coordinator / Operating Room",
+        "category": "Nursing",
+        "postedDate": "2024-05-15"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "2CALCKVKx38fw9BB8",
+        "idRaw": 126057,
+        "position": 1,
+        "title": "Communications Manager",
+        "category": "Business Operations",
+        "postedDate": "2024-07-17"
+    },
+    {
+        "positionType": "Temporary Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "tLAV884YwgPn7n3n",
+        "idRaw": 125980,
+        "position": 2,
+        "title": "Accounts Payable Assistant EHC (ETS) | Temporary",
+        "category": "Accounting and Finance",
+        "postedDate": "2024-05-31"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30084",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Ortho & Spine Hospital",
+        "id": "3e4UMwCB64BrdYDYi",
+        "idRaw": 125769,
+        "position": 3,
+        "title": "Surgical Assistant / First Assist",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-16"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30345",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Northlake",
+        "id": "BmTSV6QeKGUzcDys",
+        "idRaw": 125693,
+        "position": 4,
+        "title": "Manager, Endpoint Engineering",
+        "category": "Information Technology",
+        "postedDate": "2024-07-22"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30058",
+            "country": "USA",
+            "city": "Lithonia",
+            "state": "GA"
+        },
+        "company": "Emory Hillandale Hospital",
+        "id": "2g9cJ1dTJwCy3zF6p",
+        "idRaw": 125532,
+        "position": 5,
+        "title": "Therapist, VPP",
+        "category": "Therapy",
+        "postedDate": "2024-03-01"
+    },
+    {
+        "positionType": "PRN / Registry",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "2r5Go9NsmZu1atkFu",
+        "idRaw": 123939,
+        "position": 6,
+        "title": "Surgical Technologist / Operating Room",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-15"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "iBhAQVN4E9oRu8Jo",
+        "idRaw": 123800,
+        "position": 7,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-03-22"
+    },
+    {
+        "positionType": "PRN / Registry",
+        "location": {
+            "zip": "30084",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Ortho & Spine Hospital",
+        "id": "2gYeSpXvtZHTCZVo9",
+        "idRaw": 123770,
+        "position": 8,
+        "title": "Surgical Tech / Ortho and Spine OR / PRN",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-16"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Proton Therapy Center",
+        "id": "EsHkGZSMKeospioA",
+        "idRaw": 121346,
+        "position": 9,
+        "title": "Revenue Cycle Specialist",
+        "category": "Revenue Cycle & Managed Care",
+        "postedDate": "2024-05-28"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "2haEE6sffHzwhtmAo",
+        "idRaw": 120074,
+        "position": 10,
+        "title": "Surgical Technologist, CVOR, call required",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2023-11-06"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "284RoMmFYDHiRdAgM",
+        "idRaw": 117612,
+        "position": 11,
+        "title": "SPD Instrument Coordinator",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2023-12-21"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30308",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Hospital Midtown",
+        "id": "2eMu4BbjYRDbiXPxQ",
+        "idRaw": 115482,
+        "position": 12,
+        "title": "Cardiovascular Specialist",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-04"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory University Hospital",
+        "id": "32Hb1pA63n9s7XR4a",
+        "idRaw": 111741,
+        "position": 13,
+        "title": "Unit Charge Nurse, Cardiac ICU RN",
+        "category": "Nursing",
+        "postedDate": "2024-07-30"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30322",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Ambulatory Surgical Center",
+        "id": "2C4uiWuMmaRgwhWXd",
+        "idRaw": 110531,
+        "position": 14,
+        "title": "Sterile Processing Technician",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-06-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "FRdTS9wDcNCN7YCX",
+        "idRaw": 94991,
+        "position": 15,
+        "title": "Unit Charge Nurse, Internal Medicine",
+        "category": "Nursing",
+        "postedDate": "2024-01-24"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "6DKDeyYBeTpb1oo6",
+        "idRaw": 94731,
+        "position": 16,
+        "title": "Surgical Assistant / First Assist / CVOR",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-15"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30033",
+            "country": "USA",
+            "city": "Decatur",
+            "state": "GA"
+        },
+        "company": "EHC - Dekalb",
+        "id": "SJsrkX3AtW357JWa",
+        "idRaw": 90336,
+        "position": 17,
+        "title": "Sterile Processing Department  Educator",
+        "category": "Nursing",
+        "postedDate": "2024-07-11"
+    },
+    {
+        "positionType": "Regular Full-Time",
+        "location": {
+            "zip": "30342",
+            "country": "USA",
+            "city": "Atlanta",
+            "state": "GA"
+        },
+        "company": "Emory Saint Joseph's Hospital",
+        "id": "AYwW6H8EKBuCXsj5",
+        "idRaw": 89877,
+        "position": 18,
+        "title": "Surgical Assist / First Assist / CVOR",
+        "category": "Clinical & Nursing Support",
+        "postedDate": "2024-05-15"
+    }
+]
